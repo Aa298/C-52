@@ -1,0 +1,17 @@
+.head{
+    background: white;
+    text-align: center;
+}
+.facts{
+    background-color: white;
+    text-align: center;
+}
+body{
+    background-color: red;
+}
+p{
+    background-color: turquoise;
+}
+h1{
+    background-color: turquoise;
+}
